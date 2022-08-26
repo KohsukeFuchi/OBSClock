@@ -8,6 +8,7 @@
     padding: 2rem 1rem 1rem 1rem;
     border-radius: 0 0 10px 10px;
     height: 100%;
+    width: 300px;
 }
 #date-time{
     letter-spacing: 0.1rem;
