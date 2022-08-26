@@ -5,19 +5,19 @@
 #date-wrapper{
     background-color: azure;
     text-align: center;
-    width: 10rem;
     padding: 2rem 1rem 1rem 1rem;
     border-radius: 0 0 10px 10px;
+    height: 100%;
 }
 #date-time{
     letter-spacing: 0.1rem;
     font-variant-numeric: tabular-nums;
     font-weight: 900;
-    font-size: 24px;
+    font-size: 48px;
 }
 #date-date{
     letter-spacing: 0.1rem;
     font-variant-numeric: tabular-nums;
-    font-size: 18px;
+    font-size: 36px;
     font-weight: 600;
 }
