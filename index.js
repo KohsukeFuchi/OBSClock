@@ -1,6 +1,6 @@
 function getClock(){
     let now = new Date();
-    let month = String(now.getMonth()).padStart(2, '0');
+    let month = String(now.getMonth() + 1).padStart(2, '0');
     let dates = String(now.getDate()).padStart(2, '0');
     let days = now.getDay();
     let hours = String(now.getHours()).padStart(2, '0');
